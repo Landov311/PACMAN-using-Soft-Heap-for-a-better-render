@@ -29,7 +29,7 @@ Además, el proyecto incluye una interfaz interactiva que demuestra cómo funcio
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tuusuario/tu-repositorio.git
+    git clone [https://github.com/Landov311/PACMAN-using-Soft-Heap-for-a-better-render.git]
     cd tu-repositorio
     ```
 
