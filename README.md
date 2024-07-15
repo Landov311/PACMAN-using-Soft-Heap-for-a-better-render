@@ -1,2 +1,5 @@
-Hello, this my first videogame? 
-El Fibonacci Heap esta para generar un constraste entre ambas estructuras.
+Proyecto: Estructuras de Datos - Soft Heap y Fibonacci Heap en Pacman
+Integrantes
+Lando Veramendi
+Francescolli Anticona
+Sergio Fierro
